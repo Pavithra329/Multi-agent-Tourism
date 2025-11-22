@@ -1,6 +1,6 @@
 # 🌍 Tourism Explorer
 
-> **AI-Powered Travel Companion** | Real-time Weather • Smart Attractions • Beautiful UI
+> **AI-Powered Travel Companion** , Real-time Weather , Smart Attractions , Beautiful UI
 ---
 
 ## 📖 Overview
