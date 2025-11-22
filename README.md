@@ -10,6 +10,8 @@
 Perfect for **travel enthusiasts**, **tour operators**, **travel bloggers**, and **adventure seekers** who want instant insights about any destination worldwide.
 
 ---
+https://multi-agent-tourism.netlify.app/
+
 
 ## ✨ Features
 
@@ -345,25 +347,6 @@ npm install
 
 ---
 
-## 🔐 Security
-
-- ✅ HTTPS enabled (auto on Netlify)
-- ✅ No sensitive data stored locally
-- ✅ All external APIs use GET requests
-- ✅ XSS protection via React's built-in escaping
-- ✅ CORS handled by third-party APIs
-- ✅ Regular security headers configured
-
----
-
-
-## 🗺️ Roadmap
-
-### Current Version (v1.0)
-- ✅ Location search
-- ✅ Weather display
-- ✅ Attraction discovery
-- ✅ Responsive design
 
 
 
